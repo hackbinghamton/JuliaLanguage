@@ -6,7 +6,7 @@ In this workshop, you'll learn how all about Julia! Julia is a high-level and hi
 
 ## Prerequisites
 
-For this workshop, you will need to have a basic understanding of programming in general. Since this is a new language, you don't need to have a prerequisite in any specific language, but the content assumes you are not new to programming in general. A little bit of knowledge about compilers and general behind-the-scenes stuff about how programming languages work is helpful but not necessary to understand most of the content.
+For this workshop, you will need to have a basic understanding of programming in general. Since this is a new language, you don't need to have knowledge of any specific language, but the content assumes you are not new to programming in general. A little bit of knowledge about compilers and general behind-the-scenes stuff about how programming languages work is helpful but not necessary to understand most of the content.
 
 Today's workshop covers:
 
