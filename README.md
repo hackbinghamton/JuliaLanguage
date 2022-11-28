@@ -12,4 +12,4 @@ Today's workshop covers:
 
 **Julia Background**: https://colab.research.google.com/drive/1ut5yGbF62etJIYFpC4DyXxyaDOQWMi9V?usp=sharing
 
-**Intro to Coding for Julia**: https://colab.research.google.com/drive/1-M1XbZ7L3WmwqQ_ErdrYyMDfFEuHc2Ij?authuser=1
+**Intro to Coding for Julia**: https://colab.research.google.com/drive/1q5xI9irztqtjGE5d5bdzN9VfRW54AWjP?usp=sharing
